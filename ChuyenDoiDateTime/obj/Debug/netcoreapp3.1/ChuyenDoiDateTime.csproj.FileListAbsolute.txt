@@ -1,0 +1,13 @@
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\bin\Debug\netcoreapp3.1\ChuyenDoiDateTime.exe
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\bin\Debug\netcoreapp3.1\ChuyenDoiDateTime.deps.json
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\bin\Debug\netcoreapp3.1\ChuyenDoiDateTime.runtimeconfig.json
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\bin\Debug\netcoreapp3.1\ChuyenDoiDateTime.runtimeconfig.dev.json
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\bin\Debug\netcoreapp3.1\ChuyenDoiDateTime.dll
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\bin\Debug\netcoreapp3.1\ChuyenDoiDateTime.pdb
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\obj\Debug\netcoreapp3.1\ChuyenDoiDateTime.csprojAssemblyReference.cache
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\obj\Debug\netcoreapp3.1\ChuyenDoiDateTime.csproj.CoreCompileInputs.cache
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\obj\Debug\netcoreapp3.1\ChuyenDoiDateTime.AssemblyInfoInputs.cache
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\obj\Debug\netcoreapp3.1\ChuyenDoiDateTime.AssemblyInfo.cs
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\obj\Debug\netcoreapp3.1\ChuyenDoiDateTime.dll
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\obj\Debug\netcoreapp3.1\ChuyenDoiDateTime.pdb
+D:\c#cuaviet\ChuyenDoiDateTime\ChuyenDoiDateTime\obj\Debug\netcoreapp3.1\ChuyenDoiDateTime.genruntimeconfig.cache
